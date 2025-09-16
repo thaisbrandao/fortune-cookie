@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
   # Fortune Cookie
 
@@ -9,3 +10,6 @@
 
   Run `npm run dev` to start the development server.
   
+=======
+# fortune-cookie
+>>>>>>> 33e7f0d7c3ef58b56b922aee24039574ad8ccfdc
